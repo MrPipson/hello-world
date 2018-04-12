@@ -59,3 +59,5 @@ file.close()
 # Python automatically reads files by lines. It reads text by characters.
 # So if we were to say text = file.read() first and then put text in the for loop instead, it would go by character, which is what you'll often want to do
 # As the file is in the for loop, however, Python reads it line by line.
+
+# esc :wq for commit -a comment
