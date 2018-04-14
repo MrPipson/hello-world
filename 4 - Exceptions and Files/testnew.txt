@@ -1,2 +1,1 @@
-Some sample text
-in two lines
+hello world!
